@@ -135,5 +135,5 @@ Next Steps (Future Improvements):
 How to Use This Repo:
 
 Feel free to fork & use this as a starter template for building your own APIs.
-If you like the project, ⭐ it on GitHub and connect with me on LinkedIn 😊
+If you like the project, ⭐ it on GitHub and connect with me on LinkedIn(https://www.linkedin.com/in/anitasure12/) 😊
 
